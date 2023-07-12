@@ -1,7 +1,7 @@
 # MAIN base
 baseURL = "/"
 languageCode = "en-us"
-title = "Apsho | App landing template"
+title = "Mohamed Allam"
 theme = "apsho-hugo-theme"
 
 # Navigation Bar
